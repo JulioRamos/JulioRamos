@@ -1,6 +1,6 @@
 :relaxed: Hello, nice to meet you. My friends call me Julio, so also you 👀
 
-I'm a Brazilian Test Automation Engineer but I'm currently living in Prague, Czech Republic.
+I'm a Brazilian Test Automation Engineer, but I'm currently living in Prague, Czech Republic.
 
 I consider myself a mediator, a bit introverted but also intuitive, empathetic, and prospective.
 
