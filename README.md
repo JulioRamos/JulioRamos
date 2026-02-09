@@ -1,20 +1,25 @@
-:relaxed: Hello, nice to meet you. My friends call me Julio, so also you 👀
+:relaxed: Hello, nice to meet you. My friends call me Julio, so can you 👋
 
-I'm a Brazilian Test Automation Engineer, but I'm currently living in Prague, Czech Republic.
+I'm a Brazilian Test Automation Engineer, currently living in Prague, Czech Republic.
 
-I consider myself a mediator, a bit introverted but also intuitive, empathetic, and prospective.
+I consider myself a mediator: a bit introverted, yet intuitive, empathetic, and forward-looking.
 
-I like working with computers 💻, writing code 🐍, reading books 📚, beer 🍺, and  sports like football ⚽, volley 🏐, and cycling 🚴
+I like working with computers 💻, writing code 🐍, reading books 📚, beer 🍺, and sports like football ⚽, volleyball 🏐, and cycling 🚴
 
-I have been working with testing since 2009, so I'm quite experienced.
+I have been working with testing since 2009.
 
+About
+- Test Automation Engineer with 15+ years of experience.
+- Focus on reliable test architecture, CI/CD, and maintainable automation suites.
 
-📫 julio.mat03@gmail.com
+Interests 
+- Clean, readable automation code and pragmatic tooling.
+- Collaboration, mentoring, and clear communication.
 
-📫 [My Linkedin Profile](https://www.linkedin.com/in/jcdeco)
-
-📫Julio Cesar Decó Ramos - Prague
-
+Contact 📫
+- Email: julio.mat03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jcdeco
+- Location: Prague, Czech Republic
 
 <!---
 JulioRamos/JulioRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
